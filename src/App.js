@@ -17,10 +17,13 @@ const Container = styled.div`
   height: 100vh;
   width: 100%
   background-color: #7ed6df;
+  ${Card} {
+      background-color: blue;
+  }
 `;
 
 const Card = styled.div`
-  bacground-color: white;
+  background-color: red;
 `;
 
 const Button = styled.button`
