@@ -2,9 +2,9 @@
 
 [해당 강좌](https://academy.nomadcoders.co/p/styled-components-like-a-boss)를 실습한 코드입니다.
 
-| Start Date | End Date | Update Date |
-| ---------- | -------- | ----------- |
-| 2018-10-28 |          | 2018-10-28  |
+| Start Date | End Date                    | Update Date |
+| ---------- | --------------------------- | ----------- |
+| 2018-10-28 | 2018-10-31 :jack_o_lantern: | 2018-10-28  |
 
 
 
